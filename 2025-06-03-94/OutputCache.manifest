@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 2528881259
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_data.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_prefabs.bundle
+      Dependencies:
+        Dependency_0: share_assets_bh3_font.bundle
+        Dependency_1: share_assets_bh3_textures_login.bundle
+        Dependency_2: share_assets_bh3_textures.bundle
+        Dependency_3: share_assets_pictures_battle.bundle
+        Dependency_4: share_assets_textmesh pro_fonts.bundle
+        Dependency_5: unityshaders.bundle
+    Info_2:
+      Name: assets_scripts_dlls.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_bh3_scenes_1-1.bundle
+      Dependencies: {}
+    Info_4:
+      Name: assets_bh3_scenes.bundle
+      Dependencies:
+        Dependency_0: assets_bh3_scenes_mainmenu.bundle
+        Dependency_1: assets_bh3_scenes_mainmenu 1.bundle
+        Dependency_2: share_assets_bh3_font.bundle
+        Dependency_3: share_assets_bh3_textures_login.bundle
+        Dependency_4: share_assets_bh3_textures.bundle
+        Dependency_5: share_assets_pictures_battle.bundle
+        Dependency_6: share_assets_textmesh pro_fonts.bundle
+        Dependency_7: unityshaders.bundle
+    Info_5:
+      Name: assets_bh3_scenes_1-10.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_bh3_scenes_mainmenu.bundle
+      Dependencies: {}
+    Info_7:
+      Name: assets_bh3_scenes_mainmenu 1.bundle
+      Dependencies: {}
+    Info_8:
+      Name: assets_bh3_scenes_mainmenu_profiles.bundle
+      Dependencies: {}
+    Info_9:
+      Name: share_assets_bh3_font.bundle
+      Dependencies: {}
+    Info_10:
+      Name: share_assets_bh3_textures_login.bundle
+      Dependencies: {}
+    Info_11:
+      Name: share_assets_bh3_textures.bundle
+      Dependencies: {}
+    Info_12:
+      Name: share_assets_pictures_battle.bundle
+      Dependencies: {}
+    Info_13:
+      Name: share_assets_textmesh pro_fonts.bundle
+      Dependencies: {}
+    Info_14:
+      Name: unityshaders.bundle
+      Dependencies: {}
+    Info_15:
+      Name: share_packages_com_unity_render-pipelines_core_editor_volume_icons.bundle
+      Dependencies: {}
