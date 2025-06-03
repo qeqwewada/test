@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2466083463
+CRC: 3921560450
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -20,10 +20,9 @@ AssetBundleManifest:
         Dependency_9: assets_bh_ui_icon.bundle
         Dependency_10: assets_bh_ui_piece.bundle
         Dependency_11: assets_bh_ui_shenghen.bundle
-        Dependency_12: unityshaders.bundle
-        Dependency_13: share_assets_bh3_font.bundle
-        Dependency_14: share_assets_bh3_textures_login.bundle
-        Dependency_15: share_assets_textmesh pro_fonts.bundle
+        Dependency_12: share_assets_bh3_font.bundle
+        Dependency_13: share_assets_bh3_textures_login.bundle
+        Dependency_14: share_assets_textmesh pro_fonts.bundle
     Info_2:
       Name: assets_bh_dlls.bundle
       Dependencies: {}
